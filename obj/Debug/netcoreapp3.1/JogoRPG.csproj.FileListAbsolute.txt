@@ -1,0 +1,13 @@
+C:\dotnet-workspace\JogoRPG\bin\Debug\netcoreapp3.1\JogoRPG.exe
+C:\dotnet-workspace\JogoRPG\bin\Debug\netcoreapp3.1\JogoRPG.deps.json
+C:\dotnet-workspace\JogoRPG\bin\Debug\netcoreapp3.1\JogoRPG.runtimeconfig.json
+C:\dotnet-workspace\JogoRPG\bin\Debug\netcoreapp3.1\JogoRPG.runtimeconfig.dev.json
+C:\dotnet-workspace\JogoRPG\bin\Debug\netcoreapp3.1\JogoRPG.dll
+C:\dotnet-workspace\JogoRPG\bin\Debug\netcoreapp3.1\JogoRPG.pdb
+C:\dotnet-workspace\JogoRPG\obj\Debug\netcoreapp3.1\JogoRPG.csprojAssemblyReference.cache
+C:\dotnet-workspace\JogoRPG\obj\Debug\netcoreapp3.1\JogoRPG.AssemblyInfoInputs.cache
+C:\dotnet-workspace\JogoRPG\obj\Debug\netcoreapp3.1\JogoRPG.AssemblyInfo.cs
+C:\dotnet-workspace\JogoRPG\obj\Debug\netcoreapp3.1\JogoRPG.csproj.CoreCompileInputs.cache
+C:\dotnet-workspace\JogoRPG\obj\Debug\netcoreapp3.1\JogoRPG.dll
+C:\dotnet-workspace\JogoRPG\obj\Debug\netcoreapp3.1\JogoRPG.pdb
+C:\dotnet-workspace\JogoRPG\obj\Debug\netcoreapp3.1\JogoRPG.genruntimeconfig.cache
